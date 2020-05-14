@@ -1,2 +1,2 @@
 # kettle-manager
-Using Spring Cloud Microservices to build kettle back-end management. 
+Using Spring Cloud Microservices to Build Kettle Back-End Management. 
