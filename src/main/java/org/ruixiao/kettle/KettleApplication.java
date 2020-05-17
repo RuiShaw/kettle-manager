@@ -3,6 +3,10 @@ package org.ruixiao.kettle;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
+/**
+ * @author ruishaw
+ */
 @SpringBootApplication
 public class KettleApplication {
 

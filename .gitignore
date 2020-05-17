@@ -17,7 +17,6 @@ target/
 *.iws
 *.iml
 *.ipr
-kettle-manager.iml
 
 ### NetBeans ###
 /nbproject/private/
